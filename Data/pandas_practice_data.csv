@@ -1,0 +1,9 @@
+EmployeeID,Name,Age,Department,Salary,City
+101,Amit,23.0,HR,25000.0,Delhi
+102,Riya,29.0,IT,45000.0,Mumbai
+103,John,35.0,IT,60000.0,Delhi
+104,Neha,,Finance,52000.0,Pune
+105,Karan,41.0,HR,,Mumbai
+106,Sara,28.0,Finance,48000.0,Delhi
+107,Vikas,,IT,70000.0,Pune
+108,Anita,32.0,HR,,Mumbai

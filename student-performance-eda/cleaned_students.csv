@@ -1,0 +1,6 @@
+StudentID,Name,Gender,Math,Science,English,Attendance_Percentage,JoinDate,Total,Average,Performance
+1,Aarav,M,78,85.0,88.0,90.0,2023-06-01,251.0,83.66666666666667,Good
+2,Diya,F,92,89.0,0.0,95.0,2023-06-15,181.0,60.333333333333336,Good
+3,Rohan,M,65,70.0,72.0,90.5,2023-07-10,207.0,69.0,Good
+4,Ananya,F,88,91.0,94.0,92.0,2023-05-20,273.0,91.0,Excellent
+5,Kabir,M,55,0.0,60.0,85.0,2023-08-01,115.0,38.333333333333336,Failed
